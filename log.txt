@@ -1,0 +1,2 @@
+#Application Log
+This is to monitor the health of the application.
